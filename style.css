@@ -1,0 +1,138 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*body {
+    background-color: rgba(15, 8, 60, 0.795);
+}
+
+#main-heading {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+
+#heading {
+    font-size: 30px;
+    color: #fff;
+}
+
+.boxes {
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+    padding: 5px;
+    width: 200px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+.container {
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+}
+
+#heading {
+    padding: 20px;
+}
+
+button {
+    width: 75px;
+    height: 30px;
+    font-size: 20px;
+    background-color: rgba(15, 8, 60, 0.795);
+    color: #fff;
+    cursor: pointer;
+    margin: 60px;
+}
+
+button:hover {
+ background-color:green;
+}*/
+
+
+
+/* body {
+    background-color:rgb(124, 124, 237)
+}
+
+#main-heading {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.boxes {
+    border: 5px solid whitesmoke;
+    border-radius: 10px;
+    color: aliceblue;
+    padding: 5px;
+    width: 750px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+.dummy{
+    width: 400px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    border: none;
+    font-size: 20px;
+    background-color: rgba(15, 8, 60, 0.795);
+    color: lightblue;
+    cursor: pointer;
+    justify-content: center;
+}
+
+div {
+    height: 500px;
+
+}
+
+.hidden-content {
+    display: none;
+}
+
+.hidden-content.reveal-btn {
+    display: block;
+}
+
+.hidden-content.boxes {
+    font-size: 23px;
+} */
+
+
+
+/*.button {
+    font-size: 30px;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    border: solid 3px #fff;
+    background: none;
+    display: block;
+}*/
+
